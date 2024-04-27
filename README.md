@@ -15,7 +15,7 @@ The goal is to classify tweets into positive, negative, or neutral sentiment cat
 ```
 ##  Clone the GitHub repository:
 ```bash
-git clone https://github.com/your-username/twitter-sentiment-analysis.git
+git clone https://github.com/Rawlingsofficial/sentimental_analysis
 ```
 ## Download the pre-trained BERT model from Hugging Face:
 
